@@ -17,9 +17,10 @@
 
 package com.sherlock.navigationdrawer.compat;
 
+import com.actionbarsherlock.R;
+
 import java.lang.reflect.Method;
 
-import android.R;
 import android.app.ActionBar;
 import android.app.Activity;
 import android.content.res.TypedArray;
