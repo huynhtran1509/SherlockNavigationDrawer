@@ -20,3 +20,8 @@ local.properties
 .settings
 .project
 .metadata
+
+# IntelliJ project files
+*.iml
+target/
+.idea/
